@@ -1,0 +1,9 @@
+c:\users\stajyer1\documents\visual studio 2017\Projects\myexample\myexample\bin\Debug\netcoreapp1.1\myexample.deps.json
+c:\users\stajyer1\documents\visual studio 2017\Projects\myexample\myexample\bin\Debug\netcoreapp1.1\myexample.runtimeconfig.json
+c:\users\stajyer1\documents\visual studio 2017\Projects\myexample\myexample\bin\Debug\netcoreapp1.1\myexample.runtimeconfig.dev.json
+c:\users\stajyer1\documents\visual studio 2017\Projects\myexample\myexample\bin\Debug\netcoreapp1.1\myexample.dll
+c:\users\stajyer1\documents\visual studio 2017\Projects\myexample\myexample\bin\Debug\netcoreapp1.1\myexample.pdb
+c:\users\stajyer1\documents\visual studio 2017\Projects\myexample\myexample\obj\Debug\netcoreapp1.1\myexample.csprojResolveAssemblyReference.cache
+c:\users\stajyer1\documents\visual studio 2017\Projects\myexample\myexample\obj\Debug\netcoreapp1.1\myexample.AssemblyInfo.cs
+c:\users\stajyer1\documents\visual studio 2017\Projects\myexample\myexample\obj\Debug\netcoreapp1.1\myexample.dll
+c:\users\stajyer1\documents\visual studio 2017\Projects\myexample\myexample\obj\Debug\netcoreapp1.1\myexample.pdb
